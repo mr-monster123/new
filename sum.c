@@ -2,6 +2,8 @@
 int main()
 {
     int  n,i,j,y,s=0;
+
+    
     printf("Enter the number of member in array\n ");
     scanf("%d",&n);
     int a[n];
